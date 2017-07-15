@@ -1,3 +1,35 @@
 h1{
+  position: inherit;
   color: blue;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  position: relative;
+  color:green;
+  display: table;
+  margin-left: auto;
+  margin-right: auto
+}
+h3{
+  position: relative;
+  color:red;
+  display: table;
+  margin-left: auto;
+  margin-right: auto
+}
+body > div > div > a{
+  position: relative;
+  color:red;
+  display: table;
+  margin-left: auto;
+  margin-right: auto
+}
+body > div > div > u1 > li:nth-child(1){
+  position: relative;
+  color:red;
+  display: table;
+  margin-left: auto;
+  margin-right: auto
 }
